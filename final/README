@@ -1,0 +1,10 @@
+我的demo主題為星座，
+裏頭有放上許多關於12星座的小故事，
+使用者可以透過點選星座的符號後，
+彈出小視窗來閱讀故事。
+
+下個部分我有使用到Javascript寫指令來完成，
+只要輸入自己的生日即可算出自己的星座，
+指令來源：https://blog.csdn.net/weidong_y/article/details/82222002
+背景我是採用免費的Bootstrap，
+來源：https://startbootstrap.com/themes/
